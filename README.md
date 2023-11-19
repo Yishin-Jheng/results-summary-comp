@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Result Summary Component](https://results-summary-comp-yishin.netlify.app/)
+- Solution URL: [Result Summary Component Solution Page]([https://your-solution-url.com](https://www.frontendmentor.io/solutions/results-summary-component-with-rwd-j65RzeSkMX))
+- Live Site URL: [Result Summary Component Live Demo](https://results-summary-comp-yishin.netlify.app/)
 
 ## My process
 
